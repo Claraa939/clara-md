@@ -30,9 +30,9 @@ global.ownernomerr = "+6288971419677" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288971419677","6283168004413","201277272498"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6288971419677","6288971419677","201277272498"] //ganti agar fitur owner bisa di gunakan
 global.packname = '©Claraa' //sticker wm ubah
-global.author = 'Created' //
+global.author = 'Created By' //
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
